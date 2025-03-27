@@ -1,0 +1,1 @@
+Full external config checklist for Google API and OAuth
